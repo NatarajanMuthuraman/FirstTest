@@ -3,5 +3,6 @@ Updating the file...:-)))
 
 
 Regards..Thanks for listening
-
 This is to check merge for same line...
+Hello world this is a merge for both sides...
+
